@@ -1,5 +1,5 @@
 {
-  "name": "ucan-assistant-card",
+  "name": "ucan-assistant",
   "homeassistant": "2023.9.0",
   "filename": "ucan_assistant.zip",
   "render_readme": true,

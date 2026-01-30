@@ -1,11 +1,9 @@
 {
-  "domain": "ucan_assistant",
-  "name": "ucan assistant",
+  "name": "ucan-assistant-card",
   "homeassistant": "2023.9.0",
   "filename": "ucan_assistant.zip",
   "render_readme": true,
   "zip_release": true,
-  "files": ["ucan_assistant"],
   "iot_class": "local_polling",
   "codeowners": ["@MONKEYDEMOONCAKE"],
   "category": "plugin"

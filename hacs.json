@@ -5,9 +5,8 @@
   "filename": "ucan_assistant.zip",
   "render_readme": true,
   "zip_release": true,
-  "config_flow": ["ucan_assistant"],
-  "files": ["www/ucan_assistant"],
+  "files": ["ucan_assistant"],
   "iot_class": "local_polling",
   "codeowners": ["@MONKEYDEMOONCAKE"],
-  "category": "integration"
+  "category": "plugin"
 }
